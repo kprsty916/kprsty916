@@ -42,7 +42,7 @@ I am an enthusiastic person who enjoys exploring new technologies and building i
     </tr>
     <tr>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats-fast.vercel.app/api?username=dikaprsty916&show_icons=true&theme=prussian" alt="Exzort567's GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=kprsty916&show_icons=true&theme=prussian" alt="heheha" />
             <br />
         </td>
         <td align="center" width="50%">
