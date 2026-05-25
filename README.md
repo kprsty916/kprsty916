@@ -39,6 +39,7 @@ I am an enthusiastic person who enjoys exploring new technologies and building i
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Deepseek](https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white)
 
 ---
 
