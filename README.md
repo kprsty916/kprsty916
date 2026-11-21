@@ -2,7 +2,7 @@
   
 <picture>
   <source media="(max-width: 600px)" srcset="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
-  <h1>👋 Hello, I'm Dika Prasetya!</h1>
+  <h1>👋 Hello, I'm [Dika Prasetya]()!</h1>
 </picture>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
